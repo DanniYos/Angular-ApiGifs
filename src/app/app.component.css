@@ -5,7 +5,7 @@
 
 
 
-@media (max-width : 650px) {
+@media (max-width < 650px) {
   .container-principal {
     height: auto;
   }

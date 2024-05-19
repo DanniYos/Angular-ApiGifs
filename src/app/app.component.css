@@ -1,0 +1,13 @@
+.container-principal{
+  height: 100%;
+}
+
+
+
+
+@media (max-width : 650px) {
+  .container-principal {
+    height: auto;
+  }
+}
+
